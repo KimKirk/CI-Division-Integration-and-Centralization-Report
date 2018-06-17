@@ -1,4 +1,4 @@
-# CI-Division-Integration-and-Centralization-Report
+# CI-Division-Systems-Integration-and-Centralization-Report
 systems analysis for integration and centralization of legacy and new systems
 
 ## Overview
