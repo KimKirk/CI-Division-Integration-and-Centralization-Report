@@ -1,5 +1,5 @@
-# CI-Division-Systems-Integration-and-Centralization-Report
-systems analysis for integration and centralization of legacy and new systems
+# Systems-Integration-and-Centralization-Report
+systems analysis for integration and centralization of legacy and new systems for the CI-Division
 
 ## Overview
 The Division technology system was analyzed for ways to integrate the legacy system with new system components. The main communications system, MS Outlook, was found to be a focused leveraging point to integrate new and legacy systems as well as centralize work to maximize productivity and efficiency. 
